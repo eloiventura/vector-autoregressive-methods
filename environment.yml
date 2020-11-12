@@ -1,0 +1,18 @@
+name: tsa
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - ipykernel
+  - jupyter
+  - ipython
+  - pip
+  - pip:
+    - plotly
