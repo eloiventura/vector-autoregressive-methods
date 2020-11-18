@@ -13,6 +13,9 @@ dependencies:
   - ipykernel
   - jupyter
   - ipython
+  - nb_conda_kernels
   - pip
   - pip:
     - plotly
+    - sklearn
+    - xlrd
